@@ -11,3 +11,8 @@ Personal development log — notes, findings, and ongoing work.
 - Cross-checked behaviour against spec
 - Reviewed security headers configuration
 - Fixed minor edge case in input handling
+
+## 2026-05-06
+- Documented config options
+- Consolidated duplicate helper functions
+- Pinned dependency versions for reproducibility
