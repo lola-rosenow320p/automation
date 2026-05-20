@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-20
 - Improved log message formatting
 - Reorganised test fixtures
+
+## 2026-05-20
+- Reorganised test fixtures
+- Added healthcheck endpoint stub
+- Pinned dependency versions for reproducibility
