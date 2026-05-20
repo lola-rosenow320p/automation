@@ -19,3 +19,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-20
 - Tidied up project structure
+
+## 2026-05-20
+- Improved log message formatting
+- Reorganised test fixtures
