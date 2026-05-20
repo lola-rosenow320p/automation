@@ -16,3 +16,6 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Consolidated duplicate helper functions
 - Pinned dependency versions for reproducibility
+
+## 2026-05-20
+- Tidied up project structure
